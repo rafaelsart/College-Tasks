@@ -18,6 +18,8 @@ class Empresa {
 		System.out.println(xprod.getQuantidade());
 	}
 
+
+	//pau viado
 	public static void menuConsultaCodigo(Estoque estoque){
 		Scanner teclado = new Scanner(System.in);
 		int codigoProduto;
